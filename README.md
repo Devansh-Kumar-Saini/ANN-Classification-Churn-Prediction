@@ -59,5 +59,3 @@ pip install -r requirements.txt
 
 ---
 
-**Author:**  
-This project is for educational purposes and demonstrates a typical machine learning workflow for customer churn prediction
